@@ -6,6 +6,9 @@ current ports:
 
 - [sys/wait.h](https://github.com/win32ports/sys_wait_h)
 - [strings.h](https://github.com/win32ports/strings_h)
+- [dirent.h](https://github.com/win32ports/dirent_h)
+- [unistd.h](https://github.com/win32ports/unistd_h)
+- [sys/time.h](https://github.com/win32ports/sys_time_h)
 
 requirements for ports:
 
